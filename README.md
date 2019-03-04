@@ -1,5 +1,7 @@
-Brain Corporation Coding Challenge
+#Brain Corporation Coding Challenge
+
 Candidate: Jeffrey Liv
+
 Date: 02/25/2019
 
 Written and tested using Microsoft Visual Studio and g++
