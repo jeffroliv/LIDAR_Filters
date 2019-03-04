@@ -5,7 +5,9 @@ Date: 02/25/2019
 Written and tested using Microsoft Visual Studio and g++
 OS: Windows 10 Home 64-bit
 
-Goal: The goal of the assignment is to write filters to reduce noise in the data coming from a LIDAR sensor attached to a robot. 
+Goal: 
+	
+	The goal of the assignment is to write filters to reduce noise in the data coming from a LIDAR sensor attached to a robot. 
 
 Filters:
 	
