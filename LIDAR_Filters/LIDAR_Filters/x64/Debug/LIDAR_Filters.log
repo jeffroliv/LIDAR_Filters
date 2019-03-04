@@ -1,0 +1,5 @@
+﻿  Filters.cpp
+c:\users\jeffr\desktop\lidar_filters\lidar_filters\filters.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jeffr\desktop\lidar_filters\lidar_filters\filters.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jeffr\desktop\lidar_filters\lidar_filters\filters.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LIDAR_Filters.vcxproj -> C:\Users\Jeffr\Desktop\LIDAR_Filters\x64\Debug\LIDAR_Filters.exe

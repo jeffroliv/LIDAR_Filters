@@ -1,0 +1,8 @@
+﻿  Filters.cpp
+c:\users\jeffr\desktop\lidar_filters\lidar_filters\filters.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jeffr\desktop\lidar_filters\lidar_filters\filters.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jeffr\desktop\lidar_filters\lidar_filters\filters.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 592 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LIDAR_Filters.vcxproj -> C:\Users\Jeffr\Desktop\LIDAR_Filters\x64\Release\LIDAR_Filters.exe
