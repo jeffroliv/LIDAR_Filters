@@ -1,4 +1,4 @@
-#Brain-Corporation-Coding-Challenge
+Brain Corporation Coding Challenge
 
 Candidate: Jeffrey Liv
 
